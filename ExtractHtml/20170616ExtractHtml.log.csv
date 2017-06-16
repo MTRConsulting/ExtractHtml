@@ -1,0 +1,142 @@
+Section 1:  Introduction To The Course  		
+Section 2:  AWS - 10,000 Feet Overview  		
+Section 3:  Identity Access Management (IAM)  		
+Section 4:  AWS Object Storage and CDN - S3, Glacier and CloudFront  		
+Section 5:  EC2 - The Backbone of AWS  		
+Section 6:  Route53  		
+Section 7:  Databases on AWS  		
+Section 8:  VPC  		
+Section 9:  Application Services  		
+Section 10:  Kinesis  		
+Section 11:  The Real World - Creating a fault tolerant Word Press Site  		
+Section 12:  Preparing for the Exam - White Paper Reviews  		
+Section 13:  The Well Architected Framework  		
+Section 14:  Additional Exam Tips  		
+Section 15:  Thank You, Good Luck & Coming Soon!  		
+	1 Introduction, Overview 2017	00:19:13
+	2 Getting Started - What You'll Need!	00:06:56
+	3 The Exam Blue Print	00:03:29
+	4 The History Of AWS So Far	00:11:04
+	5 AWS - 10,000 Foot Overview Part 1	00:19:45
+	6 AWS - 10,000 Foot Overview Part 2	00:18:20
+	7 AWS - 10,000 Foot Overview Part 3	00:20:36
+	8 AWS - 10,000 Foot Overview Part 4	00:06:59
+	9 10,000 Foot Quiz	00:00:00
+	10 IAM 101	00:03:32
+	11 IAM (Lab)	00:18:26
+	12 Create A Billing Alarm (Lab)	00:04:15
+	13 IAM Summary	00:04:56
+	14 IAM - Quiz	00:00:00
+	15 S3 - 101	00:21:45
+	16 Create an S3 Bucket (Lab)	00:11:29
+	17 Version Control (Lab)	00:13:10
+	18 Cross Region Replication	00:14:13
+	19 Lifecycle Management & Glacier (Lab)	00:14:18
+	20 CloudFront CDN Overview	00:09:12
+	21 Create a CloudFront CDN (Lab)	00:16:09
+	22 S3 - Security & Encryption	00:05:39
+	23 Storage Gateway	00:16:01
+	24 Snowball	00:08:42
+	25 Snowball Lab	00:08:46
+	26 S3 Transfer Acceleration	00:04:14
+	27 Create A Static Website Using S3	00:06:02
+	28 S3 Summary	00:17:30
+	29 S3 Quiz	00:00:00
+	30 EC2 101 - Part 1	00:20:12
+	31 EC2 101 - Part 2	00:13:39
+	32 Lets get our hands dirty! Launch an EC2 Instance - Part 1.	00:20:23
+	33 Lets get our hands dirty! Launch an EC2 Instance - Part 2.	00:11:43
+	34 How to use Putty (Windows Users Only)	00:06:31
+	35 Security Groups Basics	00:16:07
+	36 Volumes and Snapshots	00:13:35
+	37 Creating a Windows EC2 Instance & RAID Group	00:15:19
+	38 Create an AMI	00:08:22
+	39 AMI's - EBS root volumes vs Instance Store	00:07:45
+	40 Load Balancers & Health Checks	00:19:53
+	41 Cloud Watch EC2	00:14:20
+	42 The AWS Command Line & EC2	00:11:33
+	43 Using IAM roles with EC2	00:09:11
+	44 S3 CLI & Regions	00:09:27
+	45 Using Bootstrap Scripts	00:14:37
+	46 EC2 Instance Meta-data	00:04:37
+	47 Autoscaling 101	00:17:06
+	48 EC2 Placement Groups - An Exam Must Know!	00:03:15
+	49 EFS - Concepts & Lab	00:15:04
+	50 Lambda - Concepts	00:11:17
+	51 EC2 Summary	00:18:39
+	52 EC2 Quiz	00:00:00
+	53 DNS 101	00:17:03
+	54 Register Your Domain Name	00:04:37
+	55 Setup Our EC2 Instances	00:10:28
+	56 Simple Routing Policy Lab	00:05:55
+	57 Weighted Routing Policy Lab	00:06:02
+	58 Latency Routing Policy Lab	00:04:52
+	59 Failover Routing Policy Lab	00:09:31
+	60 Geolocation Routing Policy Lab	00:04:24
+	61 DNS Exam Tips	00:03:41
+	62 Route53 Quiz	00:00:00
+	63 Databases 101	00:13:30
+	64 Launching an RDS Instance	00:13:26
+	65 Backups, Multi-AZ & Read Replicas	00:17:47
+	66 DynamoDB	00:12:26
+	67 RedShift	00:08:38
+	68 Elasticache	00:03:46
+	69 Aurora	00:14:27
+	70 Databases Summary	00:06:45
+	71 Databases Quiz	00:00:00
+	72 Introduction & Overview	00:16:10
+	73 Build your own custom VPC	00:19:53
+	74 Build Your Own Custom VPC Part 2	00:08:45
+	75 Network Address Translation (NAT)	00:18:24
+	76 Network Access Control Lists vs Security Groups	00:17:18
+	77 ELB's & VPCs	00:02:30
+	78 NATs vs Bastions	00:03:57
+	79 VPC Flow Logs	00:04:35
+	80 VPC Clean Up	00:05:11
+	81 Summary	00:03:54
+	82 VPC Quiz	00:00:00
+	83 SQS	00:12:45
+	84 SWF	00:06:42
+	85 SNS	00:08:13
+	86 Elastic Transcoder	00:02:01
+	87 API Gateway	00:06:34
+	88 Application Services Summary	00:10:02
+	89 Application Services Quiz	00:00:00
+	90 Kinesis 101	00:09:25
+	91 Kinesis Lab	00:05:54
+	92 Getting Setup	00:12:52
+	93 Setting Up EC2	00:19:42
+	94 Adding Resilience And Cloud Front	00:20:01
+	95 Setting Up Our AMI's	00:22:31
+	96 Configuring Autoscaling & Load Testing	00:16:30
+	97 CloudFormation!	00:10:51
+	98 Want to be a real Solutions Architect? You need to know CloudFormation!	00:01:58
+	99 Overview of Amazon Web Services	00:05:56
+	100 Overview of Security Processes - Part 1	00:13:44
+	101 Overview of Security Processes - Part 2	00:07:33
+	102 AWS Risk & Compliance	00:05:20
+	103 Storage Options in the Cloud	00:07:36
+	104 Architecting for the AWS Cloud: Best Practices	00:11:51
+	105 Exam Practicalities	00:02:36
+	106 Mega Quiz 1	00:00:00
+	107 Introduction to The Well Architected Framework	00:06:21
+	108 Pillar One - Security	00:18:14
+	109 Pillar Two - Reliability	00:10:50
+	110 Pillar Three - Performance Efficiency	00:18:38
+	111 Pillar Four - Cost Optimization	00:14:35
+	112 Pillar Five - Operational Excellence	00:14:01
+	113 Summary of The Well Architected Framework	00:08:55
+	114 Exam Tips - Based on student feedback.	00:10:50
+	115 Consolidated Billing	00:07:53
+	116 AWS Organizations Lab	00:06:13
+	117 Cross Account Access	00:14:19
+	118 Resource Groups & Tagging	00:07:54
+	119 VPC Peering	00:04:23
+	120 Direct Connect	00:05:01
+	121 Active Directory Integration	00:03:15
+	122 Workspaces	00:03:07
+	123 More Quiz Questions	00:00:00
+	124 Thank you to all my students.	00:02:53
+	125 Mega Quiz 2	00:00:00
+	126 Scenario Based Questions	00:00:00
+	127 Final Practice Exam	00:00:00
